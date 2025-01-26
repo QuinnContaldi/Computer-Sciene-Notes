@@ -6,6 +6,7 @@
       {
         "id": "eb6346bb8c1a4264",
         "type": "tabs",
+        "dimension": 65.95441595441596,
         "children": [
           {
             "id": "8041196a2ace890a",
@@ -22,6 +23,7 @@
       {
         "id": "c5da4f6363a5f915",
         "type": "tabs",
+        "dimension": 34.04558404558404,
         "children": [
           {
             "id": "835b93a41ce119ef",
@@ -185,7 +187,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "835b93a41ce119ef",
+  "active": "2a81370de615bedc",
   "lastOpenFiles": [
     "CS 457/note.md",
     "CS 491/note.md",
