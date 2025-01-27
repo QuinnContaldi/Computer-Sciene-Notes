@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "b1d836ccbce26234",
+    "id": "9935c05b9a6055a4",
     "type": "split",
     "children": [
       {
-        "id": "eb6346bb8c1a4264",
+        "id": "8c47bf056cb9f329",
         "type": "tabs",
         "children": [
           {
-            "id": "8041196a2ace890a",
+            "id": "35b998c8dbd532f7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS 491/Chapter One/Notes.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Notes"
+              "title": "New tab"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "fdd182458339af6b",
+    "id": "72b88f01cb446b72",
     "type": "split",
     "children": [
       {
-        "id": "fb41a25be81bd3c1",
+        "id": "e9f7cab880440ac0",
         "type": "tabs",
         "children": [
           {
-            "id": "224239fbb9c5d055",
+            "id": "1d017976bf656435",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,7 +43,7 @@
             }
           },
           {
-            "id": "a663a9ab3a8efbbf",
+            "id": "5c1843ac950b93a8",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -64,7 +60,7 @@
             }
           },
           {
-            "id": "9399901b5bfa1d22",
+            "id": "cd05c4457d0c2982",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -80,15 +76,15 @@
     "width": 300
   },
   "right": {
-    "id": "ff33a2abdab60ad1",
+    "id": "db2738f27e44ad86",
     "type": "split",
     "children": [
       {
-        "id": "b21f45629e2986d8",
+        "id": "1c39503013a64295",
         "type": "tabs",
         "children": [
           {
-            "id": "bd2a32c0649396af",
+            "id": "60b60d22f87cea6e",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -106,7 +102,7 @@
             }
           },
           {
-            "id": "da2de46de939ab52",
+            "id": "3a1aa741e43de75d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -119,7 +115,7 @@
             }
           },
           {
-            "id": "90670a4f2fc44a54",
+            "id": "e004cac8281d3010",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -132,7 +128,7 @@
             }
           },
           {
-            "id": "bb935c25297e5aa1",
+            "id": "339384008325032a",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -140,23 +136,13 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
-          },
-          {
-            "id": "2a81370de615bedc",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,34 +151,9 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "8041196a2ace890a",
-  "lastOpenFiles": [
-    "CS 491/Chapter One/Problem Sheet.md",
-    "CS 491/Chapter One/Images/Stacked.png",
-    "CS 491/Chapter One/Images/SpaghettiChart.png",
-    "CS 491/Chapter One/Images/ShotChart.png",
-    "CS 491/Chapter One/Images/Problem 1.png",
-    "CS 491/Chapter One/Images/HighLow.png",
-    "CS 491/Chapter One/Images/FunnelChart.png",
-    "CS 491/Chapter One/Images/ControlChart.png",
-    "CS 491/Chapter One/Images/TimeSeries.png",
-    "CS 491/Chapter One/Images/BarChart.png",
-    "CS 491/Chapter One/Images/ScatterChartdata.png",
-    "CS 491/Chapter One/Notes.md",
-    "CS 491/Chapter One.md",
-    "CS 491/Chapter One/Images",
-    "CS 491/Chapter One",
-    "CS 457/note.md",
-    "CS 456/note.md",
-    "CS 426/note.md",
-    "CS 456.md",
-    "CS 426",
-    "CS 491",
-    "CS 456",
-    "CS 457"
-  ]
+  "active": "35b998c8dbd532f7",
+  "lastOpenFiles": []
 }
