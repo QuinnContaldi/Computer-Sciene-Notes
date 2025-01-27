@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS 457/Chapter One/Notes.md",
+                "file": "CS 491/Chapter One/Problem Sheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes"
+              "title": "Problem Sheet"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Time_Series_Data",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -136,23 +136,15 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "CS 491/Chapter One/Problem Sheet.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
-            "id": "2a81370de615bedc",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of Problem Sheet"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -171,12 +163,12 @@
   },
   "active": "8041196a2ace890a",
   "lastOpenFiles": [
-    "CS 457/Chapter One/Chapter One Problem Sheet.md",
-    "CS 457/Chapter One/Notes.md",
-    "CS 457/Chapter One",
-    "CS 491/Chapter One/Problem Sheet.md",
-    "CS 491/Chapter One/Images/Table.1.3Chart.md",
     "CS 491/Chapter One/Notes.md",
+    "CS 491/Chapter One/Problem Sheet.md",
+    "CS 457/Chapter One/Notes.md",
+    "CS 457/Chapter One/Chapter One Problem Sheet.md",
+    "CS 457/Chapter One",
+    "CS 491/Chapter One/Images/Table.1.3Chart.md",
     "CS 491/Chapter One/Images/Table1.3.png",
     "CS 491/Chapter One/Images/Problem15.png",
     "CS 491/Chapter One/Images/Problem14.png",
