@@ -43,3 +43,30 @@ The diversity in types and structures of data generated
 The reliability of the data generated
 
 ## Types of Charts and Their Uses 
+
+### Bar Chart
+![A bar Chart](BarChart.png)
+
+
+### Column Chart
+![](ColumnChartZoo.png)
+
+### Control Chart 
+![](ControlChart.png)
+
+### Funnel Chart
+![](FunnelChart.png)
+
+### High Low Chart
+![](HighLow.png)
+### Scatter Chart
+![](ScatterChart.png)
+### Shot Chart
+![](ShotChart.png)
+### Spaghetti Chart
+![](SpaghettiChart.png)
+### Stacked Chart
+![](Stacked.png)
+
+### Time Series Chart
+![](TimeSeries.png)

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS 491/Chapter One/Notes.md",
+                "file": "CS 491/Chapter One/Problem Sheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes"
+              "title": "Problem Sheet"
             }
           }
         ]
@@ -169,15 +169,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "224239fbb9c5d055",
+  "active": "8041196a2ace890a",
   "lastOpenFiles": [
-    "CS 491/Chapter One/Images/TimeSeries.png",
-    "CS 491/Chapter One/Images/BarChart.png",
-    "CS 491/Chapter One/Images/ScatterChartdata.png",
-    "CS 491/Chapter One/Images/ScatterChart.png",
-    "CS 491/Chapter One/Images/ColumnChartZoo.png",
-    "CS 491/Chapter One/Images/ColumnChart.png",
+    "CS 491/Chapter One/Images/Problem 1.png",
+    "CS 491/Chapter One/Problem Sheet.md",
+    "problem.md",
     "CS 491/Chapter One/Notes.md",
+    "Pasted image 20250126165642.png",
+    "CS 491/Chapter One/Images/BarChart.png",
+    "CS 491/Chapter One/Images/ShotChart.png",
+    "CS 491/Chapter One/Images/SpaghettiChart.png",
+    "CS 491/Chapter One/Images/ControlChart.png",
+    "CS 491/Chapter One/Images/FunnelChart.png",
+    "CS 491/Chapter One/Images/Stacked.png",
+    "CS 491/Chapter One/Images/HighLow.png",
+    "CS 491/Chapter One/Images/TimeSeries.png",
     "CS 491/Chapter One.md",
     "CS 491/Chapter One/Images",
     "CS 491/Chapter One",
