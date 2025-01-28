@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS 491/Chapter One/Problem Sheet.md",
+                "file": "CS 491/Chapter One/Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Problem Sheet"
+              "title": "Notes"
             }
           }
         ]
@@ -163,6 +163,9 @@
   },
   "active": "8041196a2ace890a",
   "lastOpenFiles": [
+    "CS 491/Chapter One/Problem Sheet.md",
+    "CS 491/Chapter One/Images/Problem 1.png",
+    "problem.md",
     "CS 491/Chapter One/Notes.md",
     "CS 491/Chapter One/Problem Sheet.md",
     "CS 457/Chapter One/Notes.md",
