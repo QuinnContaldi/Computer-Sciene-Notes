@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS 491/Chapter One/Notes.md",
+                "file": "CS 491/Chapter Two/Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -137,10 +137,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS 491/Chapter One/Problem Sheet.md"
+                "file": "CS 491/Chapter Two/Notes.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Problem Sheet"
+              "title": "Outline of Notes"
             }
           }
         ],
@@ -157,19 +157,22 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "8041196a2ace890a",
   "lastOpenFiles": [
+    "CS 491/Chapter Two/Problem Sheet.md",
+    "CS 491/Chapter Two/Notes.md",
+    "CS 491/Chapter Two/Untitled",
+    "CS 491/Chapter Two/Images",
     "CS 491/Chapter One/Problem Sheet.md",
+    "CS 491/Chapter Two",
+    "CS 491/Chapter One/Notes.md",
+    "CS 457/Chapter One/Chapter One Problem Sheet.md",
     "CS 491/Chapter One/Images/Problem 1.png",
     "problem.md",
-    "CS 491/Chapter One/Notes.md",
-    "CS 491/Chapter One/Problem Sheet.md",
     "CS 457/Chapter One/Notes.md",
-    "CS 457/Chapter One/Chapter One Problem Sheet.md",
     "CS 457/Chapter One",
     "CS 491/Chapter One/Images/Table.1.3Chart.md",
     "CS 491/Chapter One/Images/Table1.3.png",
@@ -181,7 +184,6 @@
     "CS 491/Chapter One/Images/Problem10.png",
     "CS 491/Chapter One/Images/Problem9.png",
     "CS 491/Chapter One/Images/Problem8.png",
-    "CS 491/Chapter One/Images/Problem6.png",
     "CS 491/Chapter One.md",
     "CS 491/Chapter One/Images",
     "CS 491/Chapter One",

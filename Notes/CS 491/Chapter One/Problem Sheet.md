@@ -60,10 +60,10 @@
     
     ![](Problem4.png)
     
-    For each of the four pieces of data, indicate whether the data are quantitative or categorical and whether the data are cross-sectional or time series. LO 2  
+    For each of the four pieces of data, indicate whether the data are quantitative or categorical and whether the data are cross-sectional or time series. #LO_2  
 - 5.
     
-    **House Price and Square Footage.** Suppose we want to better understand the relationship between house price and the square footage of the house, and we have collected the house price and square footage for 75 houses in a particular neighborhood of Cincinnati, Ohio, from the Zillow website on January 3, 2021. LO 2, 3
+    **House Price and Square Footage.** Suppose we want to better understand the relationship between house price and the square footage of the house, and we have collected the house price and square footage for 75 houses in a particular neighborhood of Cincinnati, Ohio, from the Zillow website on January 3, 2021. #LO_2 #LO_3
     
     1. Are these data quantitative or categorical?
         
@@ -83,16 +83,19 @@
      #LO_3 Describe various examples of data visualization used in practice
     
     1. Are these data quantitative or categorical?
-        
+        Quantitative because its associated with a numerical data 
     2. Are these data cross-sectional or time series?
-        
+        This is a time series because it takes place over a given duration 
     3. What type of chart is this?
         ![](Problem6.png)
+		This is a bar chart
 - 7.
-    **U.S. Netflix Subscribers.** Refer to the previous problem. Suppose that in addition to the total number of Netflix subscribers, we have the number of those subscribers by year for the years 2010–2019 who live in the United States. Our message is to emphasize how much of the growth is coming from the United States. Which of the following types of charts would best display the data? Explain your answer. LO 2, 3
+    **U.S. Netflix Subscribers.** Refer to the previous problem. Suppose that in addition to the total number of Netflix subscribers, we have the number of those subscribers by year for the years 2010–2019 who live in the United States. Our message is to emphasize how much of the growth is coming from the United States. Which of the following types of charts would best display the data? Explain your answer. 
+    #LO_2
+    #LO_3
      
     1. Bar chart
-        
+        The Bar chart would be the best as it intuitively show cases the subscriber growth over time
     2. Clustered column chart
         
     3. Stacked column chart
@@ -104,26 +107,28 @@
     ![](Problem8.png)
     
     1. Are these data quantitative or categorical?
-        
-    2. Are these data cross-sectional or time series?
-        
-    3. What type of chart is this?
-        
-    4. What conclusions can you make based on this chart?
+	        quantitative since these are numerical values
+    1. Are these data cross-sectional or time series?
+	        Cross-Sectional
+    1. What type of chart is this?
+	        Stacked Bar Chart
+    1. What conclusions can you make based on this chart?
+		    Data Scientist spend more time presenting Analysis then exploring data  if they work less then five hours per week
 - 9.
     **Industries in the Dow Jones Industrial Index.** Refer to the data on the Dow Jones Industrial Index given in [Table 1.3](Table.1.3Chart.md). The following chart displays the number of companies in each industry that make up this index. LO 3
     
-    1. What type of chart is this?
-        
-    2. Which industry has the highest number of companies in the Dow Jones Industrial Index?
+	1. What type of chart is this?
+	        Side Column Chart
+	1. Which industry has the highest number of companies in the Dow Jones Industrial Index?
         ![](Problem9.png)
 - 10.
     
     **Job Factors.** The following chart is based on the same data used to construct [Figure 1.3](https://ebooks.cenreader.com/#!/reader/ef9f5b78-0a94-4068-9b76-6e7e690c434c/page/content-bd_ch_01_sect_02_02#NTJS5X1BL55GQY3PQ270?#null). The data are percentages of respondents to a survey who listed various factors as most important when making a job decision. LO 3, 4
     
     1. What type of chart is this?
-        
-    2. What is the fifth most-cited factor?
+	        Bar Chart
+    1. What is the fifth most-cited factor?
+		    Industry 
         ![](Problem10.png)
 - 11.
     **Retirement Financial Concerns.** The results of the American Institute of Certified Public Accountants’ _Personal Financial Planning Trends Survey_ indicated 48% of clients had concerns about outliving their money. The top reasons for these concerns and the percentage of respondents who cited the reason were as follows. LO 3, 4
@@ -131,37 +136,40 @@
     ![](Problem11.png)
     
     1. What type of chart is this?
-        
-    2. Only 48% of the survey respondents had financial concerns about retirement (outliving their money). What percentage of the total people surveyed had retirement healthcare cost concerns?
+	        Bar Chart 
+    1. Only 48% of the survey respondents had financial concerns about retirement (outliving their money). What percentage of the total people surveyed had retirement healthcare cost concerns?
+		    77%
 - 12.
     **Master’s Degree Program Recruiting.** The recruiting process for a full-time master’s program in data science consists of the following steps. The program director obtains e-mail addresses of undergraduate seniors who have taken the Graduate Record Exam (GRE) and expressed an interest in data science. An e-mail inviting the students to an online information session is sent. At the information session, faculty discuss the program and answer questions. Students apply through a web portal. An admissions committee makes an offer of admission (or not) along with any financial aid. If the person is admitted, the person either accepts or rejects the offer. Consider the following chart. LO 3, 4
     
     ![](Problem12.png)
     
     1. What type of chart is this?
-        
+         A funnel Chart
     2. Which of the following is the correct interpretation of the 21% for Enrolled?
         
         1. Of those who were sent an e-mail, 21% enrolled.
-            
-        2. Of those who were admitted, 21% enrolled.
-            
-        3. Of those who applied for admission, 21% enrolled.
-            
-        4. None of the above
+	            This is correct because 100% of applicants have received an email but  of those 100% only 21% enrolled. In other words enrolled students are a subset of the Emailed students
+        1. Of those who were admitted, 21% enrolled.
+	            No because something like 97% of admitted students have enrolled. while enrolled students are a subset of admitted students. The intersection of the two is far greater then 21%
+        1. Of those who applied for admission, 21% enrolled.
+	            Again this is incorrect because it is not 21% out of the 100% of applied of Admission students 
+        1. None of the above
 - 13.
     **Chemical Process Control.** The following chart is a quality control chart of the temperature of a chemical manufacturing process. What observations can you make about the process? LO 3
-    
+	    The chemical Manufacturing plant is well run and barely crosses the upper control limit indicating good manufacturing practices 
     ![](Problem13.png)
 - 14.
     **Buying a Used Car.** The following chart shows data for a sample of 18 used cars of the same brand, model, and year. LO 2, 3, 4
     
     1. Are these data quantitative or categorical?
-        
-    2. What type of chart is this?
-        
-    3. How might you use this chart to find a used car to purchase?
+	    quantitative since these are numerical data points
+    1. What type of chart is this?
+	    This is a scatter chart
+    1. How might you use this chart to find a used car to purchase?
+		You can use linear regression to find a best fit line and find an average mileage per dollar ratio
         ![](Problem14.png)
 - 15.
     **Tracking Stock Prices.** The following high-low-close stock chart gives the stock price for Exxon Mobile Corporation over a 12-month period. The data are the low, high, and closing price per share on the first trading day of the month. What can you say about the stock price and volatility of the stock price over this 12-month period? LO 3
+	    I would consider this an below average volatile with a few notable exceptions with a downward trend. This stock is degrading in value. With out major implications of a rapid recovery or some sort of business reorganization I would say that Exxon is a bad place for your hard earn cash. Let this business die and find another stock. Perhaps Amazon or AMD? 
     ![](Problem15.png)
