@@ -33,7 +33,7 @@
 	2. This is a Predictive analytics since we are using past data to make predictions about the future
 	3. This is a Prescriptive analytics since we are using data to make informed decision 
 - 3.
-    ![](Problem3.Png)
+    ![](Problem3.png)
     **_Wall Street Journal_ Subscriber Characteristics**. A _Wall Street Journal_ subscriber survey asked a series of questions about subscriber characteristics and interests. State whether each of the following questions provides categorical or quantitative data. #LO_2
     
     1. What is your age?

@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8041196a2ace890a",
+            "id": "9b78cfd2203b2e88",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS 491/Chapter Two/Notes.md",
+                "file": "CS 491/Chapter 2/Chapter Two Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes"
+              "title": "Chapter Two Notes"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -52,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Learning",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -137,10 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS 491/Chapter Two/Notes.md"
+                "file": "CS 491/Chapter 2/Chapter Two Notes.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Notes"
+              "title": "Outline of Chapter Two Notes"
             }
           }
         ],
@@ -160,39 +164,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8041196a2ace890a",
+  "active": "9b78cfd2203b2e88",
   "lastOpenFiles": [
-    "CS 491/Chapter Two/Problem Sheet.md",
-    "CS 491/Chapter Two/Notes.md",
-    "CS 491/Chapter Two/Untitled",
-    "CS 491/Chapter Two/Images",
-    "CS 491/Chapter One/Problem Sheet.md",
-    "CS 491/Chapter Two",
-    "CS 491/Chapter One/Notes.md",
+    "CS 491/Chapter 4/Untitled",
+    "CS 491/Chapter 4",
+    "CS 491/Chapter Three/Problem Sheet 3.md",
+    "CS 491/Chapter 3",
+    "CS 491/Chapter Three/Chapter Three Notes.md",
+    "CS 491/Chapter 2/Problem Sheet 2.md",
+    "CS 491/Chapter 2/Chapter Two Notes.md",
+    "CS 491/Chapter Three/Images",
+    "CS 491/Chapter Three/Images.md",
+    "CS 491/Chapter Three",
     "CS 457/Chapter One/Chapter One Problem Sheet.md",
-    "CS 491/Chapter One/Images/Problem 1.png",
-    "problem.md",
     "CS 457/Chapter One/Notes.md",
+    "CS 491/Chapter 1/Problem Sheet.md",
+    "CS 491/Chapter 2/Images/RadarChart.png",
+    "CS 491/Chapter 2/Images/Icon4.png",
+    "CS 491/Chapter 2/Images/Icon3.png",
+    "CS 491/Chapter 2/Images/Icon2.png",
+    "CS 491/Chapter 2/Images/Icon1.png",
+    "Pasted image 20250223204658.png",
+    "Pasted image 20250223204644.png",
+    "Pasted image 20250223204636.png",
+    "CS 491/Chapter 2/Images/FunnelChart.png",
+    "CS 491/Chapter 2/Images/StockChart.png",
+    "Show.md",
+    "CS 491/Chapter 1/Notes.md",
+    "CS 491/Chapter Two/Untitled",
+    "CS 491/Chapter 2/Images",
+    "CS 491/Chapter 2",
+    "problem.md",
     "CS 457/Chapter One",
-    "CS 491/Chapter One/Images/Table.1.3Chart.md",
-    "CS 491/Chapter One/Images/Table1.3.png",
-    "CS 491/Chapter One/Images/Problem15.png",
-    "CS 491/Chapter One/Images/Problem14.png",
-    "CS 491/Chapter One/Images/Problem13.png",
-    "CS 491/Chapter One/Images/Problem12.png",
-    "CS 491/Chapter One/Images/Problem11.png",
-    "CS 491/Chapter One/Images/Problem10.png",
-    "CS 491/Chapter One/Images/Problem9.png",
-    "CS 491/Chapter One/Images/Problem8.png",
+    "CS 491/Chapter 1/Images/Table.1.3Chart.md",
     "CS 491/Chapter One.md",
-    "CS 491/Chapter One/Images",
-    "CS 491/Chapter One",
+    "CS 491/Chapter 1/Images",
+    "CS 491/Chapter 1",
     "CS 456/note.md",
     "CS 426/note.md",
-    "CS 456.md",
-    "CS 426",
-    "CS 491",
-    "CS 456",
-    "CS 457"
+    "CS 456.md"
   ]
 }
